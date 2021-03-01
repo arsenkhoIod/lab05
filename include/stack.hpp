@@ -1,5 +1,6 @@
 // Copyright 2020 arsenykhoIod <arsenykholod@yandex.ru>
 
+
 #ifndef TEMPLATE_STACK_HPP
 #define TEMPLATE_STACK_HPP
 
