@@ -1,4 +1,4 @@
-// Copyright 2020 Your Name <your_email>
+// Copyright 2020 arsenykhoIod <arsenykholod@yandex.ru>
 
 #include <gtest/gtest.h>
 #include "stack_light.hpp"
