@@ -6,7 +6,7 @@
 
 TEST(stack_light, push_lvalue) {
   int a = 25;
-  int b = 17;
+  int b = 19;
   stack_light<int> stack1;
   stack1.push(b);
   EXPECT_EQ(stack1.head(), b);
