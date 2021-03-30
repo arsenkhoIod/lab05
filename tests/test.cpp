@@ -5,7 +5,7 @@
 #include "stack.hpp"
 
 TEST(stack_light, push_lvalue) {
-  int a = 23;
+  int a = 24;
   int b = 17;
   stack_light<int> stack1;
   stack1.push(b);
